@@ -1,34 +1,42 @@
-header{
-
-    background-color: orangered;
-
+*{
+    margin: 0;
 }
-
+header{
+    background-color: orangered;
+    position: relative;
+    height: 400px;
+}
+.logo{
+    position: absolute;
+    right: 45%;
+    top: 100px;
+}
 main{
+
 
     background-color: orange;
     
 
 }
-
 footer{
-
     background-color: orangered;
-
+    position: relative;
+    height: 100px;
 }
-
+.Footer{
+    position: absolute;
+    right: 45%;
+}
 img{
 
     width: 300px;
 
 }
-
 /* header img{
 
     width: 200px
 
 }*/
-
 h1{
 
     text-align: center;
