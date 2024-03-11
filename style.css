@@ -12,11 +12,7 @@ header{
     top: 100px;
 }
 main{
-
-
     background-color: orange;
-    
-
 }
 footer{
     background-color: orangered;
@@ -28,18 +24,11 @@ footer{
     right: 45%;
 }
 img{
-
     width: 300px;
-
 }
 /* header img{
-
     width: 200px
-
 }*/
 h1{
-
     text-align: center;
-
-
 }
